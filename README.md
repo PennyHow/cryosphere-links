@@ -52,6 +52,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [NSIDC](https://nsidc.org/) - The (US) National Snow and Ice Data Center
 - [NSIDC Data Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials) - Jupyter notebook guides to access, subset, transform, and visualize data products from NSIDC
 - [Arctic Data Center](https://arcticdata.io) - Data and software from NSF Arctic research
+- [GEUS Dataverse](https://dataverse.geus.dk/) - Data from the Geological Survey of Denmark and Greenland (GEUS)
 ## Frozen Ground/Permafrost
 ### FGP Software
 #### Data Handling
