@@ -46,6 +46,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ### Cryo Software
 - [Antarctic-Plots](https://antarctic-plots.readthedocs.io/en/latest/index.html) - A Python package to help download, process, visualize, and plot Antarctic data.
 - [earthspy](https://github.com/AdrienWehrle/earthspy) - Monitor and study any place on Earth and in Near Real-Time (NRT) with satellite data
+- [pypromice](https://github.com/GEUS-Glaciology-and-Climate/pypromice) - A Python package for handling on-ice automated weather station (AWS) data
 - [xDEM](https://github.com/GlacioHack/xdem) - A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.
 ### Cryo Data 
 - [NSIDC](https://nsidc.org/) - The (US) National Snow and Ice Data Center
@@ -171,10 +172,10 @@ hydrology and glacier dynamics (paper)
 - [ITS_LIVE](https://its-live.jpl.nasa.gov/) - A NASA MEaSUREs project to provide automated, low latency, global glacier flow and elevation change datasets.
 
 #### ISG National Data
-##### Switzerland
-- [GLAMOS](https://glamos.ch) - Glacier Monitoring Switzerland: the Swiss glacier data portal]
 ##### Austria
 - [Austrian Glacier Inventory](https://doi.org/10.1594/PANGAEA.844988) - Multi-temporal inventory of Austrian glaciers as a shapefile
+##### Switzerland
+- [GLAMOS](https://glamos.ch) - Glacier Monitoring Switzerland: the Swiss glacier data portal]
 
 ### ISG Educational Tools and Data
 - [OGGM-edu](http://edu.oggm.org) - Educational material about glaciers, powered by OGGM and MyBinder
