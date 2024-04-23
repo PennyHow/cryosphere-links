@@ -179,6 +179,7 @@ hydrology and glacier dynamics (paper)
 - [GLAMOS](https://glamos.ch) - Glacier Monitoring Switzerland: the Swiss glacier data portal]
 ##### Greenland
 - [Greenland Ice Sheet total mass balance](https://doi.org/10.22008/FK2/OHI23Z) - Total mass balance for the Greenland Ice Sheet from 1840 through to next week ([p](https://doi.org/10.5194/essd-13-5001-2021))
+- [Greenland Ice Sheet surface velocity mosaics](https://doi.org/10.22008/FK2/LFZLZN) - Timeseries of Greenland Ice Sheet velocity mosaics based on ESA Sentinel-1 SAR offset tracking from January 2016 to present
   
 ### ISG Educational Tools and Data
 - [OGGM-edu](http://edu.oggm.org) - Educational material about glaciers, powered by OGGM and MyBinder
