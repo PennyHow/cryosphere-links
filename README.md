@@ -182,6 +182,7 @@ hydrology and glacier dynamics (paper)
 - [Greenland Ice Sheet surface velocity mosaics](https://doi.org/10.22008/FK2/LFZLZN) - Timeseries of Greenland Ice Sheet velocity mosaics based on ESA Sentinel-1 SAR offset tracking from January 2016 to present
 - [PROMICE and GC-Net automated weather station data](https://doi.org/10.22008/FK2/IW73UU) - Automated weather station data from the GEUS-managed weather station network ([p](https://doi.org/10.5194/essd-13-3819-2021))
 - [GC-Net historical automated weather station data](https://doi.org/10.22008/FK2/VVXGUT) - Automated weather station data from the historical GC-Net (Greenland Climate Network) weather station network ([p](https://doi.org/10.5194/essd-2023-147))
+- [SUMup](https://doi.org/10.18739/A2M61BR5M) - The SUMup collaborative database of surface mass balance, subsurface temperature and density measurements (1912-2023)
     
 ### ISG Educational Tools and Data
 - [OGGM-edu](http://edu.oggm.org) - Educational material about glaciers, powered by OGGM and MyBinder
